@@ -168,10 +168,10 @@ export default function Header() {
 
               {/* Download Accomplishment Report button */}
               <a 
-                href="/accomplishment-report.pdf"
+                href="/weekly_report.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
-                download="Joshua_Vidal_Accomplishment_Report.pdf"
+                download="Joshua_Vidal_Weekly_Report.pdf"
                 className="relative overflow-hidden flex items-center gap-1.5 bg-gray-50 text-gray-900 font-semibold text-xs sm:text-sm px-3 py-1.5 shadow-[4px_0_8px_-2px_rgba(0,0,0,0.2)] hover:bg-blue-500 hover:text-white transition"
               >
                 <span className="absolute inset-0 animate-shine"></span>
